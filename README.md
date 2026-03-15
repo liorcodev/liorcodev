@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=liorcodev&style=flat-square&color=3F91F7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=liorcodev&style=for-the-badge&color=3F91F7" alt="Profile views" />
 </div>
 
 <h3 align="left">👨‍💻 About Me</h3>
@@ -8,6 +8,6 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,bash,bun,nodejs,express,nginx,mysql,mongodb,prisma,redis,react,vue,nuxt,remix,tailwind,html,css,vite,vitest,docker,gcp,aws,cloudflare,vercel,jenkins,terraform,linux,debian,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,bash,bun,nodejs,express,nginx,mysql,sqlite,mongodb,prisma,redis,react,vue,nuxt,remix,tailwind,html,css,vite,vitest,docker,gcp,aws,workers,vercel,jenkins,terraform,sentry,git)](https://skillicons.dev)
 
 ![Custom Badge](https://img.shields.io/badge/vscode-coding-blue)
