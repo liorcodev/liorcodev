@@ -3,11 +3,13 @@
 </div>
 
 <h3 align="left">👨‍💻 About Me</h3>
-<p align="left">I'm Lior, a full-stack software engineer passionate about building web applications, libraries, and developer tools. I have hands-on experience in both frontend and backend development, as well as cloud infrastructure. My focus areas include performance, code quality, DevOps, and designing scalable, reliable systems. I enjoy leveraging modern technologies and frameworks to deliver efficient solutions.</p>
+
+<p align="left">I'm Lior, I'm a Software Engineer who enjoys building things across different layers of the stack.  
+I focus on creating clean, reliable, and practical solutions - from ideas to production.</p>
    
 
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,bash,bun,nodejs,express,nginx,mysql,sqlite,mongodb,prisma,redis,react,vue,nuxt,remix,tailwind,html,css,vite,vitest,docker,gcp,aws,workers,vercel,jenkins,terraform,sentry,git)](https://skillicons.dev)
 
-![Custom Badge](https://img.shields.io/badge/vscode-coding-blue)
+![Custom Badge](https://img.shields.io/badge/vscode-coding-blue?logo=github)
