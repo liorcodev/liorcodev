@@ -4,7 +4,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">I'm Lior, I'm a Software Engineer who enjoys building things across different layers of the stack.  
+<p align="left">I'm Lior, a Software Engineer who enjoys developing across different layers of the stack.  
 I focus on creating clean, reliable, and practical solutions - from ideas to production.</p>
    
 
